@@ -1,10 +1,11 @@
 =====================================================================<br>
-<p>Vários código gerais em Python</p>
+<h2>Vários código gerais em Python</h2>
 =====================================================================<br>
-
-
-
-Exemplos de comandos de Git
+Arquivos Simples de Python
+<br><br><br><br>
+=====================================================================<br>
+<h3>Exemplos de comandos de Git</h3>
+=====================================================================<br>
 
 git init<br>
 git add .<br>
